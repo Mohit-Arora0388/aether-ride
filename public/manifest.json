@@ -1,0 +1,17 @@
+{
+  "name": "NeonRide - Futuristic Taxi",
+  "short_name": "NeonRide",
+  "description": "Premium futuristic taxi booking platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#00F0FF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
